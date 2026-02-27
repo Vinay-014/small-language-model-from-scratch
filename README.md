@@ -1,10 +1,7 @@
 ## Glossary
 
-This document is a quick-reference guide of terms, definitions, and concepts featured in the course.
+This document is a quick-reference guide of terms, definitions & concepts featured in this interactive lab.
 
-
-
-*   **Artificial intelligence (AI):** A broad field encompassing the development of computer systems capable of performing tasks that typically require human intelligence, such as learning, problem-solving, and decision-making.
 
 *   **Batching:** A training technique where the dataset is divided into smaller groups (batches), and the model's parameters are updated after processing each batch. This improves computational efficiency and can lead to more stable training.
 
